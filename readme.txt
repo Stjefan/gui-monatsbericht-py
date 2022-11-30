@@ -1,0 +1,1 @@
+Exe wird mittels pyinstaller .\main.spec erstellt.
